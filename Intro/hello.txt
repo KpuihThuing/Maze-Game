@@ -1,1 +1,6 @@
-hello
+Các thủ tục nhập git:
+git init
+git add . <name file>
+git commit -m "Mô tả thay đổi"
+git git remote set-url origin https://github.com/KpuihThuing/Maze-Game.git
+git push -u origin main
